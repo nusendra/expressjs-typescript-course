@@ -1,10 +1,10 @@
-# expressjs-typescript-course
+# expressjs-typescript-course-nusendra
 Expressjs + TypeScript + Sequelize for Nusendra.com Youtube channel
 
 Playlist youtube https://www.youtube.com/playlist?list=PLnQvfeVegcJZHhImGvDpnp0P725Ykx4Qt
 
 # How to
-1. `git clone https://github.com/nusendra/expressjs-typescript-course.git`
+1. `git clone https://github.com/nusendra/expressjs-typescript-course-nusendra.git`
 2. `yarn` or `npm install`
 3. Open 2 terminals
 4. Terminal 1 `yarn ts` to compile the TypeScript into JS File (watch mode).
